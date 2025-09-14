@@ -14,7 +14,7 @@ Once downloaded, unzip the ```archive.zip``` file and place the contents to the 
 ## Model
 
 Our final model is a Convolutional Neural Network (CNN) trained for image classification. A pre-trained model of our final model (```best_asl_model.pth```) can be downloaded from the following link due to file size constraints:
-[Download the model from HuggingFace]()
+[Download best_asl_model.pth](https://github.com/MechaOrange1/ASL-Alphabet-Recognition/releases/download/v1.0.0/best_asl_model.pth)
 
 Once downloaded, place the ```.pth``` file in the ```/models``` directory.
 
