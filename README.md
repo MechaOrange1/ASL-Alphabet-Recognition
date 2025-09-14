@@ -18,6 +18,16 @@ Our final model is a Convolutional Neural Network (CNN) trained for image classi
 
 Once downloaded, place the ```.pth``` file in the ```/models``` directory.
 
+## Model Performance
+
+This model was trained for 25 epochs. The training accuracy and class-specific perfomance can be seen below:
+| Training Accuracy/Loss Curve | Confusion Matrix Heatmap |
+| :--------------------------: | :----------------------: |
+| ![Accuracy Graph](./images/accuracy.png) | ![Confusion Matrix](./images/heatmap.png) |
+
+## Live Demo
+[Live Demo](https://huggingface.co/spaces/Mechabruh/ASL-Alphabet-Recognition)
+
 ## Setup & Installation
 
 1. Clone this repository:
